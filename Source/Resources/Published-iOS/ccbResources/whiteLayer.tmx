@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6" height="6" tilewidth="53" tileheight="94">
+ <tileset firstgid="1" name="white" tilewidth="53" tileheight="94">
+  <image source="Sprites/resources-phonehd/white.png" width="128" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="6" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOGAcIAwAH1AAf
+  </data>
+ </layer>
+</map>
